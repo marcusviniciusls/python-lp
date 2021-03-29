@@ -1,5 +1,6 @@
 # python-lp
 Exercicios de Python Lógica de Programação
+
 2. Escreva um algoritmo em Python que recebe seu nome e sobrenome, depois de ler as informações mostra na tela o sobrenome e depois o nome.
 
 
